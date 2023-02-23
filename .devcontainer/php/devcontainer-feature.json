@@ -1,0 +1,8 @@
+{
+  "name": "PHP",
+  "id": "php",
+  "version": "1.0.0",
+  "description": "Installs php",
+  "options": {},
+  "installsAfter": []
+}
